@@ -1,0 +1,5 @@
+./client.py get -> shows all available packets
+./client.py get --get-files --package-files {packet name} -> retrieves a packet file
+./client.py add --name {packet name} --version {package_version} -> adds a packet and its version without a file
+./client.py add --name {packet name} --version {package_version} --file {packet_file} -> adds a packet and its version with a file
+./client.py delete --name {packet name} -> delete a packet

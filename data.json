@@ -1,0 +1,18 @@
+[
+    {
+        "package": "package A",
+        "version": "version 0.0.0"
+    },
+    {
+        "package": "package B",
+        "version": "version 0.0.0"
+    },
+    {
+        "package": "package C",
+        "version": "version 0.0.0"
+    },
+    {
+        "package": "package D",
+        "version": "version 0.0.0"
+    }
+]
