@@ -73,4 +73,5 @@ Delete a packet
 ## Authors
 
 - [@SizzleUnrlsd](https://github.com/SizzleUnrlsd)
+<img src="https://t.bkit.co/w_648f3bff383e2.gif" />
 
